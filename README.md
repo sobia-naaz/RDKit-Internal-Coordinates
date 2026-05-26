@@ -32,7 +32,7 @@ The entire workflow was performed in a Linux terminal environment using Python s
 
 In computational chemistry, molecular structures can be represented using Cartesian coordinates, where atoms are defined using:
 
-0
+(x, y, z)
 
 Although Cartesian coordinates define exact atomic positions, they are not always chemically intuitive.
 
