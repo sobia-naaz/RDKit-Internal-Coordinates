@@ -2,7 +2,15 @@
 
 The project was developed and tested in a Linux environment using Python and RDKit.
 
-## Required Dependencies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
+  <img src="https://img.shields.io/badge/RDKit-Cheminformatics-orange">
+  <img src="https://img.shields.io/badge/Platform-Linux-green?logo=linux">
+</p>
+
+---
+
+## 🔧 Required Dependencies
 
 ```text
 rdkit
@@ -13,25 +21,31 @@ numpy
 
 # 💻 Running the Project
 
-Clone the repository:
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/sobia-naaz/RDKit-Internal-Coordinates.git
 ```
 
-Move into the project directory:
+---
+
+## 2️⃣ Move into the Project Directory
 
 ```bash
 cd RDKit-Internal-Coordinates
 ```
 
-Install dependencies:
+---
+
+## 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the script:
+---
+
+## 4️⃣ Run the Python Script
 
 ```bash
 python internal_coordinates.py
