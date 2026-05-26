@@ -128,7 +128,7 @@ Through this project, I explored:
 - Linux-based scientific computing
 - Python applications in computational chemistry
 
-  ---
+---
 
 # 📜 Project Status
 
