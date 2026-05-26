@@ -126,20 +126,7 @@ Through this project, I explored:
 - RDKit workflows
 - Linux-based scientific computing
 - Python applications in computational chemistry
-
----
-
-# 👩‍🔬 Author
-
-**Sobia Naaz**  
-M.Sc. Bioinformatics Student  
-
-Interested in:
-- Computational Biology
-- Cheminformatics
-- Molecular Modeling
-- Structural Bioinformatics
-
+  
 ---
 
 # 📜 License
