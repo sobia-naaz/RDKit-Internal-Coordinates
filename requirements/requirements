@@ -1,0 +1,38 @@
+# 📦 Requirements
+
+The project was developed and tested in a Linux environment using Python and RDKit.
+
+## Required Dependencies
+
+```text
+rdkit
+numpy
+```
+
+---
+
+# 💻 Running the Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sobia-naaz/RDKit-Internal-Coordinates.git
+```
+
+Move into the project directory:
+
+```bash
+cd RDKit-Internal-Coordinates
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the script:
+
+```bash
+python internal_coordinates.py
+```
