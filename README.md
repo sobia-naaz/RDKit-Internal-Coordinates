@@ -95,11 +95,12 @@ RDKit-Internal-Coordinates/
 │   ├── molecule_3d.png
 │
 ├── outputs/
-│   ├── bond_lengths.txt
-│   ├── bond_angles.txt
-│   ├── dihedral_angles.txt
-│   ├── z_matrix.txt
-│
+│   ├── CARTESIAN COORDINATES.txt
+│   ├── BOND LENGTHS.txt
+│   ├── BOND ANGLES.txt
+│   ├── DIHEDRAL ANGLES.txt
+│   ├── Z-MATRIX.txt
+│   ├── Z-MATRIX.png
 └── LICENSE
 ```
 
